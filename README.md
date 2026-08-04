@@ -19,9 +19,13 @@ This repo is for (once again) the official OpenSquad: Reborn APK file, how to us
 # How to use Pydroid and run the server successfully
 **1.** Download Pydroid 3 from the [Google Play store](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
 
+
 **2.** Download the **ZIP** containing the code from 8Hacc's repository by tapping on the green **Code** button and choosing **Download ZIP**
 
+
 **3.** Extract the **ZIP** in any **file manager** (e.g. Files by Google, Amaze etc.)
+
+
 
 **4.** After extracting the ZIP go to **Pydroid**, allow permissions to access files on your devices, find the folder containing the code (might have the name OpenSquad-master or OpenSquad-main) and do the following things:
 
