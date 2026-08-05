@@ -1,4 +1,4 @@
-# OpenSquad-Reborn-APK
+# OpenSquad:Reborn APK
 Repository for the official OpenSquad: Reborn APK, a modification of the original [OpenSquad client by 8Hacc](https://github.com/8-bitHacc/OpenSquad).
 
 ![Screenshot](Images/os_load.png)
