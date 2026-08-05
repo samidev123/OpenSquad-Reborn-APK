@@ -77,7 +77,7 @@ The current APK has:
 - Loading Screen looking low res and some UI disappearing
 
 # Special thanks
-Even though I made the new client I have to thank [8Hacc](https://github.com/8-bitHacc) for creating OpenSquad because without him this wouldn't be possible!
+Even though I made the new client I have to thank [8Hacc](https://github.com/8-bitHacc) and his team for creating OpenSquad because without him this wouldn't be possible!
 
 # Closure
 I will update the client from time to time, adding new stuff (like Squaddies, skins etc.) and I will write the update log in the UpdateLogs folder. Anyways that's all for now! Have fun with the client!
