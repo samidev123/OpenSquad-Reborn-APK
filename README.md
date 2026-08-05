@@ -68,15 +68,21 @@ The current APK has:
 ![Screenshot](Images/os_lobby.jpg)
 
 # Other bugs I might fix/stuff I might add in the future
+**Fixes**
 - Strange behaviour when entering a match/training grounds where the transition is laggy
 
 - Ultimate skins being white
 
-- Unique News Page
-
 - Some small errors for some animations
 
 - Loading Screen looking low res and some UI disappearing
+
+**Additions**
+- Rest of the skins from higher versions
+
+- More Squaddies
+
+- Unique news page
 
 # Special thanks
 Even though I made the new client I have to thank [8Hacc](https://github.com/8-bitHacc) and his team for creating OpenSquad because without them this wouldn't be possible!
