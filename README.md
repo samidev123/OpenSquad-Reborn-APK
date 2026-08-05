@@ -57,9 +57,7 @@ The current APK has:
 
 **8.** All Squaddies' power levels are increased to 10 and the pattern is changed
 
-**9.** Special in-game news section
-
-**10.** Special survey!
+**9.** Special survey!
 
 # Other bugs I might fix/stuff I might add in the future
 **1.** Strange behaviour when entering a match/training grounds where the transition is laggy
