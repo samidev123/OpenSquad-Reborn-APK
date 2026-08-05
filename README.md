@@ -20,7 +20,7 @@ This repo is for (once again) the official OpenSquad: Reborn APK file, how to us
 **1.** Download Pydroid 3 from the [Google Play store](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
 
 
-**2.** Download the **ZIP** containing the code from 8Hacc's repository by tapping on the green **Code** button and choosing **Download ZIP**
+**2.** Download the **ZIP** containing the code from 8Hacc's code by tapping on the green **Code** button and choosing **Download ZIP**
 
 
 **3.** Extract the **ZIP** in any **file manager** (e.g. Files by Google, Amaze etc.)
@@ -38,19 +38,30 @@ This repo is for (once again) the official OpenSquad: Reborn APK file, how to us
 
 # What does this APK Include
 The current APK has:
+
 **1.** All Squaddie skins up to Ultimate (they are white though)
+
 **2.** Improved Textures for some skins and Squaddies (will add more in future updates)
+
 **3.** New EXP Road with tons of rewards
+
 **4.** Enabled Diamond packs (and some more)
+
 **5.** New loading screen and some UI colour changes
+
 **6.** In-game Map changes (changed to desert world instead of Green World)
+
 **7.** New Plaza angle (can be changed via CSV files if you don't like it)
+
 **8.** All Squaddies' power levels are increased to 10 and the pattern is changed
+
 **9.** Special in-game news section
 
 # Other bugs I might fix/add in the future
 **1.** Strange behaviour when entering a match/training grounds where the transition is laggy
+
 **2.** Ultimate skins being white
+
 **3.** Proper News Page
 
 # Special thanks
