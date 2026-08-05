@@ -42,16 +42,16 @@ The current APK has:
 **2.** Improved Textures for some skins and Squaddies (will add more in future updates)
 **3.** New EXP Road with tons of rewards
 **4.** Enabled Diamond packs (and some more)
-**5.** All files from v2 (second beta) and some from v3 (soft launch) are in the APK, ready to use
-**6.** New loading screen and some UI colour changes
-**7.** In-game Map changes (changed to desert world instead of Green World)
-**8.** New Plaza angle (can be changed via CSV files if you don't like it)
-**9.** All Squaddies' power levels are increased to 10 and the pattern is changed
-**10.** Special in-game news section explaining all changes
+**5.** New loading screen and some UI colour changes
+**6.** In-game Map changes (changed to desert world instead of Green World)
+**7.** New Plaza angle (can be changed via CSV files if you don't like it)
+**8.** All Squaddies' power levels are increased to 10 and the pattern is changed
+**9.** Special in-game news section
 
-# Other bugs I might fix in the future
-1. Strange behaviour when entering a match/training grounds where the transition is laggy
-2. Ultimate skins being white
+# Other bugs I might fix/add in the future
+**1.** Strange behaviour when entering a match/training grounds where the transition is laggy
+**2.** Ultimate skins being white
+**3.** Proper News Page
 
 # Special thanks
 Even though I made the new client I have to thank 8Hacc for creating OpenSquad because without him this wouldn't be possible!
