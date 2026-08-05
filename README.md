@@ -3,7 +3,7 @@ Repository for the official OpenSquad: Reborn APK
 
 ![Screenshot](Images/os_load.png)
 
-## Purpose
+# Purpose
 This repo is for (once again) the official OpenSquad: Reborn APK file, how to use Pydroid 3 to start your server and where to find the files to actually start the game! You can download it and play it! 
 
 # Requirements
@@ -73,6 +73,8 @@ The current APK has:
 **3.** Unique News Page
 
 **4.** Some small errors for some animations
+
+**5.** Loading Screen looking low res and some UI disappearing
 
 # Special thanks
 Even though I made the new client I have to thank 8Hacc for creating OpenSquad because without him this wouldn't be possible!
