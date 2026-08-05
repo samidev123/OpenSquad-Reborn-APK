@@ -51,6 +51,8 @@ The current APK has:
 
 - Enabled Diamond packs (and some more)
 
+![Screenshot](Images/dp.png)
+
 - New loading screen and some UI colour changes
 
 - In-game Map changes (changed to desert world instead of Green World)
