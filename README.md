@@ -49,7 +49,7 @@ The current APK has:
 
 - New EXP Road with tons of rewards
 
-- Enabled Diamond packs (and some more)
+- Enabled Diamond packs (and added some other resources for variety)
 
 ![Screenshot](Images/dp.png)
 
