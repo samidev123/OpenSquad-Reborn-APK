@@ -61,7 +61,7 @@ The current APK has:
 
 **10.** Special survey!
 
-# Other bugs I might fix/add in the future
+# Other bugs I might fix/stuff I might add in the future
 **1.** Strange behaviour when entering a match/training grounds where the transition is laggy
 
 **2.** Ultimate skins being white
