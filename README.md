@@ -57,6 +57,8 @@ The current APK has:
 
 **9.** Special in-game news section
 
+**10.** Special survey!
+
 # Other bugs I might fix/add in the future
 **1.** Strange behaviour when entering a match/training grounds where the transition is laggy
 
