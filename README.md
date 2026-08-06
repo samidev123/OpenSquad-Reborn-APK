@@ -41,7 +41,7 @@ This repo is for (once again) the official OpenSquad: Reborn APK file, how to us
 # What does this APK Include
 The current APK has:
 
-- All Squaddie skins up to Ultimate (they are white though)
+- All Squaddie skins up to Ultimate (the Ultimate models are white though, but their animations work normally)
 
 ![Screenshot](Images/os_baby.jpg)
 
