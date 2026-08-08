@@ -1,0 +1,54 @@
+1. Improvements
+
+- Adjusted Battle Chest cost
+- Adjusted Plaza Chest unlock requirements and interval
+- Removed unusable files and skins from the apk (and from csv files) to make it lighter and potentially improve the performance
+- Made some small improvements to texts.csv (very small improvement but nice in the long run)
+-> Battle Time is adjusted (2 min 30 sec. duration total)
+- 2 minutes Normal Battle duration
+- 30 seconds Final Stretch duration
+
+2. Additions
+
+-> New rewards for Squad League (or Ranked if you wanna call it like that) including:
+- Much more coins and Elixir
+- You can now get Unlock Tokens and Emote Packs
+- Common, Rare, Epic and Diamond chests are also there
+
+3. Balance Changes
+
+-> Goblin
+Coins when spawned (8 -> 5)
+
+-> Battle Healer
+HP (900 -> 1300)
+DMG (120 -> 130)
+Why: Battle Healer has some decent healing value but can get some buffs to make her fit even better in her Healer class.
+
+-> Max
+HP (650 -> 1300)
+DMG (250 -> 200)
+Why: As a Speedster, Max is really good at her job but could get some adjustments. Speedster Squaddies shouldn't be very opressive and this will allow her to be more strategic.
+
+-> Shelly
+HP (700 -> 1400)
+DMG (190 -> 200)
+Why: Shelly is decent as an All-Rounder so these changes should make her a great choice in battles.
+
+-> Bo
+HP (400 -> 1200)
+DMG (150 -> 200)
+Attack Speed +25% faster
+Why: Bo was always underperfoming out of all Squaddies and these buffs should make him much more stable and playable.
+
+-> Nita
+HP (700 -> 1500)
+DMG (100 -> 110)
+Why: Nita doesn't have enough HP to be a Defender so these buffs should justify her role.
+
+-> Bea
+HP (500 -> 1000)
+DPS (200 -> 210)
+Why: Attackers are usually pretty fragile in terms of HP but have good damage output. These buffs should make Bea even better.
+
+Aaand with that all Desert World characters are rebalanced. Stay tuned for the rest of the Squaddies getting rebalanced soon ;)
