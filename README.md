@@ -12,7 +12,7 @@ This repo is for (once again) the official OpenSquad: Reborn APK file, how to us
 - Pydroid 3 (for local-hosting and to actually run the server on phone) 
 
 # How to use
-**1.** Download the latest APK from [this link](https://transfer.it/t/1RUwA21hST4J)
+**1.** Download the latest APK from [this link](https://transfer.it/t/YtLuq4oRVRIJ)
 
 **2.** Use [8Hacc's code](https://github.com/8-bitHacc/OpenSquad) in Pydroid (more instructions on how to use it in a bit)
 
@@ -65,7 +65,7 @@ The current APK has:
 
 - Special survey!
 
-![Screenshot](Images/os_lobby.jpg)
+![Screenshot](Images/os_new_lobby.jpg)
 
 # Other bugs I might fix/stuff I might add in the future
 **Fixes**
