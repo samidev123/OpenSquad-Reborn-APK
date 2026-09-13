@@ -59,8 +59,6 @@ The current APK has:
 
 ![Screenshot](Images/os_battle.jpg)
 
-- New Plaza angle (can be changed via CSV files if you don't like it)
-
 - All Squaddies' power levels are increased to 10 and the pattern is changed
 
 - Special survey!
