@@ -80,10 +80,12 @@ The current APK has:
 
 - More Squaddies
 
-- Unique news page
-
 # Special thanks
 Even though I made the new client I have to thank [8Hacc](https://github.com/8-bitHacc) and his team for creating OpenSquad because without them this wouldn't be possible!
+
+# Contacts
+- You can join our discord server from [here](discord.gg/H36HUsw4xx)
+- Subscribe to our YouTube Channel from [here](https://www.youtube.com/@SamiStudiosOfficial)
 
 # Closure
 I will update the client from time to time, adding new stuff (like Squaddies, skins etc.) and I will write the update log in the UpdateLogs folder. Anyways that's all for now! Have fun with the client!
