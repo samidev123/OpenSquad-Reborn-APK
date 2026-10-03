@@ -84,7 +84,7 @@ The current APK has:
 Even though I made the new client I have to thank [8Hacc](https://github.com/8-bitHacc) and his team for creating OpenSquad because without them this wouldn't be possible!
 
 # Contacts
-- You can join our discord server from here (Coming soon)
+- You can join our discord server from [here](https://discord.gg/9VNXJKr3D)
 - Subscribe to our YouTube Channel from [here](https://www.youtube.com/@SamiStudiosOfficial)
 
 # Closure
