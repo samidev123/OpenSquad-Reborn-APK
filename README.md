@@ -52,8 +52,6 @@ Important note: **DO NOT CLOSE THE APP WHILE THE CODE IS RUNNING**. Instead, mak
 # Follow me!
 - Discord server: [here](https://discord.gg/9VNXJKr3D)
 
-- (Or DM me: @super_sushi1234)
-
 - YouTube Channel: [here](https://www.youtube.com/@SamiStudiosOfficial)
 
 - Telegram channel: [here](https://t.me/SamiStudiosOfficial)
