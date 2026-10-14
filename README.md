@@ -3,91 +3,62 @@ Repository for the official OpenSquad: Reborn APK, a modification of the origina
 
 ![Screenshot](Images/os_load.png)
 
-# Purpose
-This repo is for (once again) the official OpenSquad: Reborn APK file, how to use Pydroid 3 to start your server and where to find the files to actually start the game! You can download it and play it! 
+# Requirements and How to use?
+- Android device with Android 10 or higher
 
-# Requirements
-- An Android device
-- Android 12 or higher
-- Pydroid 3 (for local-hosting and to actually run the server on phone) 
+- Pydroid 3 (for running the server)
 
-# How to use
-**1.** Download the latest APK from [this link](https://transfer.it/t/PGNu6W4DUBgQ)
+- Download the latest APK from [this link](https://transfer.it/t/PGNu6W4DUBgQ)
 
-**2.** Use [8Hacc's code](https://github.com/8-bitHacc/OpenSquad) in Pydroid (more instructions on how to use it in a bit)
+- Use [8Hacc's code](https://github.com/8-bitHacc/OpenSquad) in Pydroid (more instructions on how to use it in a bit)
 
-**3.** Enjoy the game!
+- Enjoy the game!
 
-# How to use Pydroid and run the server successfully
+# How to actually run the server and play the game?
 **1.** Download Pydroid 3 from the [Google Play store](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
 
 
 **2.** Download the **ZIP** containing the code from 8Hacc's code by tapping on the green **Code** button and choosing **Download ZIP**
 
 
-**3.** Extract the **ZIP** in any **file manager** (e.g. Files by Google, Amaze etc.)
+**3.** After extracting the ZIP go to **Pydroid**, allow permissions to access files on your devices, find the folder containing the code (might have the name OpenSquad-master or OpenSquad-main) and do the following things:
 
+- Select the cryptoInstaller.py file and run it!
 
+- Close the file after the process ends, and select Main.py and run it. Voila! The server is running and waiting!
 
-**4.** After extracting the ZIP go to **Pydroid**, allow permissions to access files on your devices, find the folder containing the code (might have the name OpenSquad-master or OpenSquad-main) and do the following things:
+Important note: **DO NOT CLOSE THE APP WHILE THE CODE IS RUNNING**. Instead, make the app run in the background through your app settings! 
 
-- Select the file cryptoInstaller.py and run it (from the small yellow button in the down right of your screen)
+**4.** Download the latest APK from [this link](https://transfer.it/t/PGNu6W4DUBgQ)
 
-- Close the file after it completes its task, exit it, select Main.py and run it. Important note: **DO NOT CLOSE THE APP WHILE THE CODE IS RUNNING**. Instead, make the app run in the background through your app settings! 
+**5.** Enjoy OpenSquad: Reborn!
 
-**5.** Enjoy OpenSquad: Reborn! 
+![Screenshot](Images/os_lobby_halloween.jpg)
 
+# Additions and bug fixes for the future
 
-# What does this APK Include
-The current APK has:
-
-- All Squaddie skins up to Ultimate (the Ultimate models are white though, but their animations work normally)
-
-![Screenshot](Images/os_baby.jpg)
-
-- Improved Textures for some skins and Squaddies (will add more in future updates)
-
-- New EXP Road with tons of rewards
-
-- Enabled Diamond packs (and added some other resources for variety)
-
-![Screenshot](Images/dp.png)
-
-- New loading screen and some UI colour changes
-
-- In-game Map changes (changed to desert world instead of Green World)
-
-![Screenshot](Images/os_battle.jpg)
-
-- All Squaddies' power levels are increased to 10 and the pattern is changed
-
-- Special survey!
-
-![Screenshot](Images/os_new_lobby.jpg)
-
-# Other bugs I might fix/stuff I might add in the future
-**Fixes**
 - Strange behaviour when entering a match/training grounds where the transition is laggy
 
 - Ultimate skins being white
 
 - Some small errors for some animations
 
-- Loading Screen looking low res and some UI disappearing
+- Low resolution loading screens on certain updates
 
-**Additions**
 - Rest of the skins from higher versions
 
 - More Squaddies
 
+# Follow me!
+- Discord server: [here](https://discord.gg/9VNXJKr3D)
+
+- (Or DM me: @super_sushi1234)
+
+- YouTube Channel: [here](https://www.youtube.com/@SamiStudiosOfficial)
+
+- Telegram channel: [here](https://t.me/SamiStudiosOfficial)
+
 # Special thanks
-Even though I made the new client I have to thank [8Hacc](https://github.com/8-bitHacc) and his team for creating OpenSquad because without them this wouldn't be possible!
+- 8Hacc and his team for creating OpenSquad
 
-# How to reach me!
-- You can join our discord server from [here](https://discord.gg/9VNXJKr3D)
-- Subscribe to our YouTube Channel from [here](https://www.youtube.com/@SamiStudiosOfficial)
-
-# Closure
-I will update the client from time to time, adding new stuff (like Squaddies, skins etc.) and I will write the update log in the UpdateLogs folder. Anyways that's all for now! Have fun with the client!
-
- 
+- Sami (me) for making the new clients :)
