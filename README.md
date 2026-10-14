@@ -3,14 +3,14 @@ Repository for the official OpenSquad: Reborn APK, a modification of the origina
 
 ![Screenshot](Images/os_load.png)
 
-# Requirements and How to use?
+# Requirements and usage
 - Android device with Android 10 or higher
 
 - Pydroid 3 (for running the server)
 
 - Download the latest APK from [this link](https://transfer.it/t/PGNu6W4DUBgQ)
 
-- Use [8Hacc's code](https://github.com/8-bitHacc/OpenSquad) in Pydroid (more instructions on how to use it in a bit)
+- Use [8Hacc's code](https://github.com/8-bitHacc/OpenSquad) in Pydroid 3 (more instructions down below)
 
 - Enjoy the game!
 
