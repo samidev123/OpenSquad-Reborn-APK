@@ -33,6 +33,8 @@ Important note: **DO NOT CLOSE THE APP WHILE THE CODE IS RUNNING**. Instead, mak
 
 **5.** Enjoy OpenSquad: Reborn!
 
+- Have any questions? Be sure to let me know by opening an issue or messaging me!
+
 ![Screenshot](Images/os_lobby_halloween.jpg)
 
 # Additions and bug fixes for the future
