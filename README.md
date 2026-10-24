@@ -29,9 +29,7 @@ Repository for the official OpenSquad: Reborn APK, a modification of the origina
 
 Important note: **DO NOT CLOSE THE APP WHILE THE CODE IS RUNNING**. Instead, make the app run in the background through your app settings! 
 
-**4.** Download the latest APK from [this link](https://transfer.it/t/PGNu6W4DUBgQ)
-
-**5.** Enjoy OpenSquad: Reborn!
+**4.** Enjoy OpenSquad: Reborn!
 
 - Have any questions? Be sure to let me know by opening an issue or by messaging me!
 
