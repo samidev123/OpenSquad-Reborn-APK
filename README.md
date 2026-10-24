@@ -8,7 +8,7 @@ Repository for the official OpenSquad: Reborn APK, a modification of the origina
 
 - Pydroid 3 (for running the server)
 
-- Download the latest APK from [this link](https://transfer.it/t/PGNu6W4DUBgQ)
+- Download the latest APK from [this link](https://transfer.it/t/tKEDIqxXwZoA)
 
 - Use [8Hacc's code](https://github.com/8-bitHacc/OpenSquad) in Pydroid 3 (more instructions down below)
 
